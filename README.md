@@ -9,6 +9,7 @@ Build the GraphApplet:
 Download some sample data:
 
 > wget https://www.cs.cornell.edu/~snavely/outgoing/trevi.zip
+
 > unzip trevi.zip
 
 Run the applet on the sample data:
